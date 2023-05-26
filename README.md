@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jmGEQ5VPLOwao1ByTa/giphy.gif" width="200"/>
-  __My name is Mikhail Lebedev__
 </div>
+**My name is Mikhail Lebedev**
 <br>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/ml.lebedev/">
