@@ -40,6 +40,17 @@ P.S. the list will be updated soon :smiley_cat:
 
 ---
 
+### :seedling: Сompleted courses: 
+| https://htmlacademy.ru/ «Старт в программировании» |
+| https://code-basics.com/ «HTMML» |
+| https://code-basics.com/ «CSS» |
+| https://code-basics.com/ «JavaScript» |
+| https://learn.javascript.ru/ «Введеи и основы JS» |
+| https://rs.school/ «JS / FRONT-END Stage 0» |
+| https://rs.school/ «JS / FRONT-END Stage 1» |
+
+---
+
 ### :boom: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mike-lebedev&theme=icegray&border_radius=20&hide_total_contributions=true)](https://git.io/streak-stats)
