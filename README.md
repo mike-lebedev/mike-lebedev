@@ -50,6 +50,7 @@ P.S. the list will be updated soon :smiley_cat:
 | https://learn.javascript.ru/ | «Введеи и основы JS»       |
 | https://rs.school/           | «JS / FRONT-END Stage 0»   |
 | https://rs.school/           | «JS / FRONT-END Stage 1»   |
+P.S. the list will be updated soon 😺
 
 ---
 
