@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jmGEQ5VPLOwao1ByTa/giphy.gif" width="200"/>
-  <div style="color: red;">My name is Mikhail Lebedev</div>
+  <div style="сolor: yellow;">My name is Mikhail Lebedev</div>
 </div>
 
 
