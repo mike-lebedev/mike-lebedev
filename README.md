@@ -16,20 +16,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=mike-lebedev&style=flat-square&color=blue" alt=""/>
 </div>
-
-
-
-<!--
-**mike-lebedev/mike-lebedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### :speech_balloon: About Me :
+##### I am a junior web developer from Saint petersburg, Russia.
+- :sunglasses: Started learning programming at the age of 26.
+- :handball_person: In my free time, i play volleyball.
+---
