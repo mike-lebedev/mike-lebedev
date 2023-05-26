@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jmGEQ5VPLOwao1ByTa/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/jmGEQ5VPLOwao1ByTa/giphy.gif" width="200"/>
+  <div>My name is Mikhail Lebedev!</div>
 </div>
+
 
 <!--
 **mike-lebedev/mike-lebedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
