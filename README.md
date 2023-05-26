@@ -16,9 +16,13 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=mike-lebedev&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
+
 ### :speech_balloon: About Me :
 ##### I am a junior web developer from Saint petersburg, Russia.
 - :sunglasses: Started learning programming at the age of 26.
 - :handball_person: In my free time, i play volleyball.
+
 ---
+
