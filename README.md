@@ -58,7 +58,7 @@ P.S. the list will be updated soon 😺
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mike-lebedev&theme=icegray&border_radius=20&hide_total_contributions=true)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-lebedev588&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-lebedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
