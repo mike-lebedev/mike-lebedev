@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jmGEQ5VPLOwao1ByTa/giphy.gif" width="200"/>
-  <b align="center">My name is Mikhail Lebedev</b>
+  
 </div>
+<b align="center">My name is Mikhail Lebedev</b>
 
 <br>
 <div id="badges" align="center">
