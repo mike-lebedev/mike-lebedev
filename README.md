@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jmGEQ5VPLOwao1ByTa/giphy.gif" width="200"/>
   <div>My name is Mikhail Lebedev</div>
 </div>
-<div id="badges" align="center" padding:"20px">
+<div id="badges" align="center" style:"padding:100px;">
   <a href="https://www.instagram.com/ml.lebedev/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
