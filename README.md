@@ -2,6 +2,14 @@
   <img src="https://media.giphy.com/media/jmGEQ5VPLOwao1ByTa/giphy.gif" width="200"/>
   <div>My name is Mikhail Lebedev</div>
 </div>
+<div id="badges">
+  <a href="https://www.instagram.com/ml.lebedev/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://t.me/Mihacik">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 
 <!--
