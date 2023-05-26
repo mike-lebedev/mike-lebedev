@@ -27,7 +27,6 @@
 ---
 
 ### :muscle: My skills :
-P.S. the list will be updated soon :smiley_cat:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -37,5 +36,6 @@ P.S. the list will be updated soon :smiley_cat:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PS" alt="PS" width="40" height="40"/>&nbsp;
 </div>
+P.S. the list will be updated soon :smiley_cat:
 
 
